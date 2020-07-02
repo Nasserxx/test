@@ -27,3 +27,4 @@ usr
 var
 vmlinuz
 vmlinuz.old
+line 2
