@@ -28,3 +28,7 @@ var
 vmlinuz
 vmlinuz.old
 line 2
+admin1
+dev Line 3
+dev Line 4
+
